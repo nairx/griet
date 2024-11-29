@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Batch A</title>
+    <script src="script-a.js"></script>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="header">
+      <h2><a href="index.html">My Students</a> > Batch A</h2>
+      <ul>
+        <li>
+          <a href="https://nairx.github.io/portfolio-griet" target="frm">PORTFOLIO</a> (<a
+            href="https://github.com/nairx/portfolio-griet" target="_blank"
+            >GH</a
+          >)
+        </li>
+        <li><a href="https://nairx.github.io/project-1-griet-a" target="frm">PROJECT-1</a>(<a href="https://github.com/nairx/project-1-griet-a" target="_blank">GH</a>)</li>
+        <li><a href="https://nairx.github.io/temp-griet-a" target="frm">TEMP</a>(<a href="https://github.com/nairx/temp-griet-a" target="_blank">GH</a>)</li>
+      </ul>
+    </div>
+    <div class="container">
+      <div
+        id="divStudents"
+        style="overflow: scroll; height: 650px; padding: 5px"
+      ></div>
+      <div>
+        <iframe name="frm" src="home-a.html"> </iframe>
+      </div>
+    </div>
+    <script>
+      let str = "<ol>";
+      students.map((value) => {
+        str =
+          str +
+          `<li><a href='https://${value.user}.github.io/' target="frm">${value.name}</a> | <a href='https://github.com/${value.user}' target='_blank'>GH</a></li>`;
+      });
+      divStudents.innerHTML = str + "</ol>";
+    </script>
+    <div class="footer">@copyright 2024. All rights reserved.</div>
+  </body>
+</html>
