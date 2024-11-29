@@ -1,7 +1,7 @@
 let students = [ 
     {name:'Pallavi Thanguturu',user:'pallavii1210'},
 {name:'Spoortika',user:'Spoortika'},
-{name:'SAI KRISHNA JAKKOJU',user:'Saikrishna15035'},
+{name:'Sai Krishna',user:'Saikrishna15035'},
 {name:'O. Santhosh',user:'Santhu19s'},
 {name:'Snehith Reddy B',user:'snehithreddybanala03'},
 {name:'Tanuja Prathipati',user:'tanuja-prathipati'},
@@ -9,7 +9,7 @@ let students = [
 {name:'Nayandeep',user:'nayan9924'},
 {name:'Bytakpatil Balaji',user:'BytakpatilBalaji123'},
 {name:'V.Srihitha',user:'Srihitha47'},
-{name:'GOUTHAM KRISHNA RAM',user:'goutham1611'},
+{name:'Goutham Krishna',user:'goutham1611'},
 {name:'Praveen Raj',user:'praveenrajofficial0'},
 {name:'Kwisha Shah',user:'kwishashah'},
 {name:'Sowmya',user:'SowmyaManukonda'},
