@@ -31,7 +31,7 @@ let students = [
 {name:'Kethavath Pavankalyan',user:'k-pavankalyan'},
 {name:'Gayathri Kodipaka',user:'GayathriKodipaka'},
 {name:'Patlolla Vardhana',user:'Varuu04'},
-{name:'Kompalli Sri Divya Muktha',user:'DivyaKompalli'},
+{name:'Kompalli Sri Divya',user:'DivyaKompalli'},
 {name:'T Varshini',user:'Varshini8916'},
 {name:'K.Geetha',user:'GeethaKethavath'},
 {name:'G.Saipriya',user:'Saipriya-173'},
