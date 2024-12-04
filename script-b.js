@@ -103,6 +103,10 @@ let students = [
 {name:'Victor Joseph',user:'victorjoseph02'},
 {name:'Bhupathi Sreemeghana',user:'Sreemeghana17'},
 {name:'Karthik Chowdary',user:'karthikck8143'},
-
-
+{name:'Quadeer',user:'Quadeer-Q'},
+{name:'Akhil Kasturi',user:'akhil00045'},
+{name:'Sudheendra V',user:'Sudheendrav'},
+{name:'Jayasri',user:'Jayasri934'},
+{name:'R. Sree Tripura',user:'sreetripura'},
+{name:'Sai Kiran',user:'saikiranobali45'},
     ];
