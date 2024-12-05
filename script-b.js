@@ -119,5 +119,3 @@ let students = [
   { name: "Monika Lakshmi", user: "Monikalakshmic8" },
   { name: "Upputuri Vaishnavi", user: "Vaishnavi150705" },
 ];
-];
-];
