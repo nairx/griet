@@ -116,4 +116,8 @@ let students = [
   { name: "Kiran Kumar", user: "KiranKumar529" },
   { name: "Shashikanth", user: "sashikanth45" },
   { name: "Jeethender", user: "jeethendar0" },
+  { name: "Monika Lakshmi", user: "Monikalakshmic8" },
+  { name: "Upputuri Vaishnavi", user: "Vaishnavi150705" },
+];
+];
 ];
