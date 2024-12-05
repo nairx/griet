@@ -109,4 +109,11 @@ let students = [
   { name: "Jayasri", user: "Jayasri934" },
   { name: "R. Sree Tripura", user: "sreetripura" },
   { name: "Sai Kiran", user: "saikiranobali45" },
+  { name: "Snehika", user: "snehika22" },
+  { name: "Manitheja", user: "yanala502" },
+  { name: "Aditya Reddy", user: "battureddy0408" },
+  { name: "Vineeth", user: "vineeth60" },
+  { name: "Kiran Kumar", user: "KiranKumar529" },
+  { name: "Shashikanth", user: "sashikanth45" },
+  { name: "Jeethender", user: "jeethendar0" },
 ];
