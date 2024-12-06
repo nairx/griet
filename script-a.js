@@ -127,10 +127,11 @@ let students = [
     {name:'POLE SAMPATH KUMAR',user:'sampathkumarpole16'},
     {name:'Sasank',user:'Sasank8654'},
     {name:'Raithu srija',user:'Raithusrija'},
-    {name:'Bathula Honey Priyadarshini',user:'Honeypriya21'},
+    {name:'Priyadarshini',user:'Honeypriya21'},
     {name:'Afreen Mohammad',user:'Afreen234'},
     {name:'Sasank',user:'Sasank8654'},
     {name:'P Shoumik',user:'shoumik0908'},
     {name:'Sakshi Besi',user:'sakshi-1919'},
+    {name:'Praneeth',user:'praneeth1812'},
     
   ];
