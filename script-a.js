@@ -140,4 +140,8 @@ let students = [
     {name:'David Kumar',user:'iamtony19'},
     {name:'Vaishnavi',user:'Vaishnavi1027'},
     {name:'Shreshta',user:'kandagatlashreshta'},
+    {name:'Pranalee',user:'prana2024'},
+    {name:'Harshithasai',user:'harshithasai123'},
+    {name:'Lavanya',user:'itikalalavanya'},
+    {name:'Samrudhi',user:'samrudhipuranik16'},
   ];
