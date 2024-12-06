@@ -71,7 +71,7 @@ let students = [
     { name: "Uthkarsh", user: "uthkarsh1628" },
     { name: "AJAY NAG", user: "Ajaynag2326" },
     { name: "Bandarupalli Pranitha", user: "B-Pranitha" },
-    { name: "amrutha", user: "aamrutha0208" },
+    { name: "amrutha", user: "amrutha0208" },
     { name: "deepesh reddy", user: "deepesh729" },
     { name: "N.Sushmitha", user: "sushmithanagula" },
     { name: "N.vyshnavi", user: "vyshnavi5544" },
