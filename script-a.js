@@ -144,4 +144,5 @@ let students = [
     {name:'Harshithasai',user:'harshithasai123'},
     {name:'Lavanya',user:'itikalalavanya'},
     {name:'Samrudhi',user:'samrudhipuranik16'},
+    {name:'Praveen Kumar',user:'praveenKumar-112'},
   ];
