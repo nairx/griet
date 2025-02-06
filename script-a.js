@@ -150,5 +150,12 @@ let students = [
     {name:'Shaik Afroz',user:'shaiksafroz12345'},
     {name:'Akanksha',user:'akansha-215'},
     {name:'Nissi',user:'nissig'},
+    {name:'Mahesh',user:'mah1212ar'},
+    {name:'Pradeep',user:'trpradeep27'},
+    {name:'Rahul',user:'RahulStanley'},
+    {name:'Nishanth',user:'nishisspamm'},
+    {name:'Thanishka',user:'thanishka28'},
+    {name:'Anurag',user:'AnuragMothuku'},
+    {name:'Sai Kiran',user:'Reddy-7'},
     
   ];
