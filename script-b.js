@@ -118,4 +118,6 @@ let students = [
   { name: "Jeethender", user: "jeethendar0" },
   { name: "Monika Lakshmi", user: "Monikalakshmic8" },
   { name: "Upputuri Vaishnavi", user: "Vaishnavi150705" },
+  { name: "Rugvedh", user: "ravurirugvedh12" },
+  { name: "Avinash", user: "masiavinash" },
 ];
