@@ -120,4 +120,7 @@ let students = [
   { name: "Upputuri Vaishnavi", user: "Vaishnavi150705" },
   { name: "Rugvedh", user: "ravurirugvedh12" },
   { name: "Avinash", user: "masiavinash" },
+  { name: "Aditya", user: "aditya123" },
+  { name: "Mahitha", user: "Mahitha23" },
+  { name: "Deepika", user: "deepikavytla24" },
 ];
