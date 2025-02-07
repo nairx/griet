@@ -123,4 +123,5 @@ let students = [
   { name: "Aditya", user: "aditya123" },
   { name: "Mahitha", user: "Mahitha23" },
   { name: "Deepika", user: "deepikavytla24" },
+  { name: "Samatha", user: "samatha-07" },
 ];
