@@ -23,19 +23,18 @@
       </ul>
     </div>
     <div class="container">
-      <div
-        id="divStudents"
-        style="overflow: scroll; width: 300px; height: 650px; padding: 1px"
-      ></div>
-      <div>
+     
+      <div id="divStudents" style="overflow: scroll; width: 300px;height: 650px;padding:5px"></div>
+      <!-- <div>
         <iframe name="frm" src="home-a.html"> </iframe>
-      </div>
+      </div> -->
     </div>
     <script>
       let str = "<ol>";
       students.map((value) => {
         str =
           str +
+          //`<li><a href='https://${value.user}.github.io/' target="frm">${value.name}</a> | <a href='https://github.com/${value.user}' target='_blank'>GH</a></li>`;
           `<li><a href='https://${value.user}.github.io/' target="frm">${value.name}</a> | <a href='https://github.com/${value.user}' target='_blank'>GH</a></li>`;
       });
       divStudents.innerHTML = str + "</ol>";

@@ -51,7 +51,7 @@ let students = [
     { name: "Kammam Meghana", user: "KammamMeghana" },
     { name: "Kamati Sravani", user: "sravanikamati09" },
     { name: "Siddoju Nagavarshith", user: "VarshithSidhoju" },
-    { name: "Karthik Gandla", user: "gkarthik27" },
+    { name: "Karthik Gandla", user: "gkarthik2710" },
     { name: "Rohan Venkat", user: "rohanvenkat229" },
     { name: "khajamohinuddin", user: "khaja1818" },
     { name: "A Veera Prasad", user: "Veeraarigela" },
