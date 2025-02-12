@@ -151,4 +151,7 @@ let students = [
   { name: "Akshitha", user: "akshitha246" },
   { name: "Keerthana", user: "keerthana045" },
   { name: "Manogna", user: "Manogna24-tech" },
+  { name: "Tilak", user: "BunnyTilak" },
+  { name: "Neha", user: "nehareddy-0408" },
+  { name: "Medhasri", user: "Medhasri2004" },
 ];
