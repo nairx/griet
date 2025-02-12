@@ -64,7 +64,7 @@ let students = [
   { name: "Svapnnika", user: "Svapnnika" },
   { name: "Svapnnika", user: "Svapnnika" },
   { name: "Hiranya", user: "madupuhiranya" },
-  { name: "Gorrepati Akshaya", user: "Akshaya_289868" },
+  { name: "Gorrepati Akshaya", user: "Akshaya289868" },
   { name: "Kota Avinash", user: "Kotaavinash14112004" },
   { name: "MOKSHITH REDDY M", user: "Nani080" },
   { name: "Srivalli", user: "srivallig18" },
