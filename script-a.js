@@ -164,5 +164,7 @@ let students = [
     {name:'Charan',user:'saicharan-2'},
     {name:'Kethan',user:'Kethan1308'},
     {name:'Ratan',user:'ratan1824'},
-
+    {name:'Nithish',user:'vasamnithish'},
+    {name:'Athul Krishna',user:'athulkrishna09'},
+    {name:'Rahul',user:'rahulpashikanti2468'},
   ];
