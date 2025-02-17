@@ -25,7 +25,6 @@ let students = [
   { name: "Abhinav U", user: "abhinavu0701" },
   { name: "Sathwika", user: "Sathwika2411" },
   { name: "Rishitha", user: "rishithabhatt" },
-  // {name:'Prasanna Katipally',user:'PrasannaKatipally'},
   { name: "GunjalaSiddartha", user: "GunjalaSiddartha" },
   { name: "Koushik Reddy", user: "koushikreddyperi" },
   { name: "Kethavath Pavankalyan", user: "k-pavankalyan" },

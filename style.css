@@ -9,8 +9,8 @@
     margin: 10px;
   }
   iframe {
-    width: 1400px;
-    border: none;
+    width: 1200px;
+    border: 1px solid black;
     height: 650px;
   }
   .header {
