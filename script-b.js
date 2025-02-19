@@ -62,7 +62,7 @@ let students = [
   { name: "Jatin", user: "Jatin2805" },
   { name: "Svapnnika", user: "Svapnnika" },
   { name: "Svapnnika", user: "Svapnnika" },
-  { name: "Hiranya", user: "madupuhiranya" },
+  { name: "Hiranya", user: "HiranyaMadupu07" },
   { name: "Gorrepati Akshaya", user: "Akshaya289868" },
   { name: "Kota Avinash", user: "Kotaavinash14112004" },
   { name: "MOKSHITH REDDY M", user: "Nani080" },
@@ -164,4 +164,5 @@ let students = [
   { name: "Shruti", user: "Shruti-613" },
   { name: "Saahiti", user: "Saahitii" },
   { name: "Hansika", user: "Hansika1707" },
+  { name: "Charan", user: "charan0605" },
 ];
