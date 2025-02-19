@@ -34,7 +34,14 @@
       students.map((value) => {
         str =
           str +
-          `<li><a href='https://${value.user}.github.io/' target="frm">${value.name}</a> | <a href='https://github.com/${value.user}' target='_blank'>GH</a></li>`;
+          `<li>
+          <a href='https://${value.user}.github.io/' target="frm">
+          ${value.name}</a> |
+          <a href='https://${value.user}.github.io/temp' target="frm">
+          T</a> | 
+          <a href='https://github.com/${value.user}' target='_blank'>
+          GH</a>
+          </li>`;
           //`<li><a href='https://${value.user}.github.io/' target="frm">${value.name}</a> | <a href='https://github.com/${value.user}' target='_blank'>GH</a></li>`;
       });
       divStudents.innerHTML = str + "</ol>";
