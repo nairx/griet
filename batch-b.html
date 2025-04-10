@@ -9,31 +9,78 @@
   </head>
   <body>
     <div class="header">
-      <h2><a href="index.html">My Students</a> > Batch B </h2>
+      <h2><a href="index.html">My Students</a> > Batch B</h2>
       <ul>
         <li>
-          <a href="https://nairx.github.io/portfolio-griet" target="frm">PORTFOLIO</a>|<a
-            href="https://github.com/nairx/portfolio-griet" target="_blank"
+          <a href="https://nairx.github.io/portfolio-griet" target="frm"
+            >PORTFOLIO</a
+          >|<a href="https://github.com/nairx/portfolio-griet" target="_blank"
             >GH</a
           >
         </li>
-        <li><a href="https://nairx.github.io/project-1-griet-b" target="frm">P1</a>|<a href="https://github.com/nairx/project-1-griet-b" target="_blank">GH</a></li>
-        <li><a href="https://nairx.github.io/js-bank" target="frm">P2</a>|<a href="https://github.com/nairx/js-bank" target="_blank">GH</a></li>
-        <li><a href="https://nairx.github.io/js-mystore" target="frm">P3</a>|<a href="https://github.com/nairx/js-mystore/" target="_blank">GH</a></li>
-        <li><a href="https://nairx.github.io/website" target="frm">P4</a>|<a href="https://github.com/nairx/website/" target="_blank">GH</a></li>
-        <li><a href="https://nairx.github.io/socialmedia" target="frm">P5</a>|<a href="https://github.com/nairx/socialmedia/" target="_blank">GH</a></li>
-        <li><a href="https://nairx.github.io/react-store-b-build" target="frm">P6</a>|<a href="https://github.com/nairx/react-store-b-build/" target="_blank">GH</a></li>
-        <li><a href="https://nairx.github.io/temp-griet-b" target="frm">TEMP</a>|<a href="https://github.com/nairx/temp-griet-b" target="_blank">GH</a></li>
+        <li>
+          <a href="https://nairx.github.io/project-1-griet-b" target="frm">P1</a
+          >|<a href="https://github.com/nairx/project-1-griet-b" target="_blank"
+            >GH</a
+          >
+        </li>
+        <li>
+          <a href="https://nairx.github.io/js-bank" target="frm">P2</a>|<a
+            href="https://github.com/nairx/js-bank"
+            target="_blank"
+            >GH</a
+          >
+        </li>
+        <li>
+          <a href="https://nairx.github.io/js-mystore" target="frm">P3</a>|<a
+            href="https://github.com/nairx/js-mystore/"
+            target="_blank"
+            >GH</a
+          >
+        </li>
+        <li>
+          <a href="https://nairx.github.io/website" target="frm">P4</a>|<a
+            href="https://github.com/nairx/website/"
+            target="_blank"
+            >GH</a
+          >
+        </li>
+        <li>
+          <a href="https://nairx.github.io/socialmedia" target="frm">P5</a>|<a
+            href="https://github.com/nairx/socialmedia/"
+            target="_blank"
+            >GH</a
+          >
+        </li>
+        <li>
+          <a href="https://nairx.github.io/react-store-b-build" target="frm"
+            >P6</a
+          >|<a
+            href="https://github.com/nairx/react-store-b-build/"
+            target="_blank"
+            >GH</a
+          >
+        </li>
+        <li>
+          <a href="https://nairx.github.io/temp-griet-b" target="frm">TEMP</a
+          >|<a href="https://github.com/nairx/temp-griet-b" target="_blank"
+            >GH</a
+          >
+        </li>
       </ul>
     </div>
     <div class="container">
-      <div id="divStudents" style="overflow: scroll; width: 300px;height: 650px;padding:5px"></div>
+      <div
+        id="divStudents"
+        style="overflow: scroll; width: 300px; height: 650px; padding: 5px"
+      ></div>
       <div>
-      <iframe name="frm" src="home-b.html"></iframe>
+        <iframe name="frm" src="home-b.html"></iframe>
       </div>
     </div>
     <script>
       let str = "<ol>";
+      students = students.sort((a, b) => a.rank - b.rank);
       students.map((value) => {
         str =
           str +
@@ -45,8 +92,9 @@
           <a href='https://github.com/${value.user}' target='_blank'>
           GH</a>
           </li>`;
-          //`<li><a href='https://${value.user}.github.io/' target="frm">${value.name}</a> | <a href='https://github.com/${value.user}' target='_blank'>GH</a></li>`;
+        //`<li><a href='https://${value.user}.github.io/' target="frm">${value.name}</a> | <a href='https://github.com/${value.user}' target='_blank'>GH</a></li>`;
       });
+
       divStudents.innerHTML = str + "</ol>";
     </script>
     <div class="footer">@copyright 2024. All rights reserved.</div>
